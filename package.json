@@ -1,0 +1,24 @@
+{
+  "name": "nodeJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clewis2211/nodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clewis2211/nodeJs/issues"
+  },
+  "homepage": "https://github.com/clewis2211/nodeJs#readme",
+  "dependencies": {
+    "platypus": "^0.24.3",
+    "request-promise": "^4.2.2"
+  }
+}
